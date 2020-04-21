@@ -6,6 +6,8 @@
 	{
 		"locationName" :  "Port Skandia",
 		"locationDescription" : "Baby place",
+		"locationPicture" : ""
+		"locationMap" : ""
 	}
 
     
@@ -14,6 +16,8 @@
 	{
 		"locationName" :  "Crescent Hill",
 		"locationDescription" : "Maple tree forest",
+		"locationPicture" : ""
+		"locationMap" : ""
 	}
     
     
@@ -22,6 +26,8 @@
 	{
 		"locationName" :  "Navea",
 		"locationDescription" : "Laggy af",
+		"locationPicture" : ""
+		"locationMap" : ""
 	}
 
     
