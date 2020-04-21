@@ -1,0 +1,33 @@
+{
+    
+"locations" : [
+    
+    
+	{
+		"locationName" :  "Port Skandia",
+		"locationDescription" : "Baby place",
+	}
+
+    
+    
+    
+	{
+		"locationName" :  "Crescent Hill",
+		"locationDescription" : "Maple tree forest",
+	}
+    
+    
+    
+
+	{
+		"locationName" :  "Navea",
+		"locationDescription" : "Laggy af",
+	}
+
+    
+    
+    
+	],
+	"Status" : "OK"
+
+}
