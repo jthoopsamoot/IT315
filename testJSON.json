@@ -1,14 +1,13 @@
-{
-"locations" : [
-    {"locationName":"Port Skandia","locationDescription" : "Baby place","locationPicture": "https://github.com/jthoopsamoot/IT315/blob/master/portSkandiaPicture.jpg","locationMap":"https://github.com/jthoopsamoot/IT315/blob/master/portSkandiaMap.jpg"
+{"locations":[
+    {"locationName":"Port Skandia","locationDescription":"Baby place","locationPicture":"https:\/\/github.com/jthoopsamoot/IT315/blob/master/portSkandiaPicture.jpg","locationMap":"https:\/\/github.com/jthoopsamoot/IT315/blob/master/portSkandiaMap.jpg"
     }
 
-    {"locationName" :  "Crescent Hill","locationDescription" : "Maple tree forest","locationPicture" : "https://github.com/jthoopsamoot/IT315/blob/master/crescentHillPicture.jpg","locationMap":"https://github.com/jthoopsamoot/IT315/blob/master/crescentHillMap.jpg"
+    {"locationName":"Crescent Hill","locationDescription":"Maple tree forest","locationPicture":"https:\/\/github.com/jthoopsamoot/IT315/blob/master/crescentHillPicture.jpg","locationMap":"https:\/\/github.com/jthoopsamoot/IT315/blob/master/crescentHillMap.jpg"
     }
     
-    {"locationName" :  "Navea","locationDescription" : "Laggy af","locationPicture" : "https://github.com/jthoopsamoot/IT315/blob/master/naveaPicture.jpg","locationMap" : "https://github.com/jthoopsamoot/IT315/blob/master/naveaMap.jpg"
+    {"locationName":"Navea","locationDescription":"Laggy af","locationPicture":"https:\/\/github.com/jthoopsamoot/IT315/blob/master/naveaPicture.jpg","locationMap":"https:\/\/github.com/jthoopsamoot/IT315/blob/master/naveaMap.jpg"
     }
     
     ],
-    "Status" : "OK"
+    "Status":"OK"
 }
