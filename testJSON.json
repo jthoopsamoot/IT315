@@ -1,3 +1,13 @@
-{"locations":[{"locationName":"Port Skandia","locationDescription":"Baby place","locationPicture":"https:\/\/raw.githubusercontent.com\/jthoopsamoot\/IT315\/master\/portSkandiaPicture.jpg","locationMap":"https:\/\/raw.githubusercontent.com\/jthoopsamoot\/IT315\/master\/portSkandiaMap.jpg", "location_MIN_LEVEL":0,"location_MAX_LEVEL":10},{"locationName":"Crescent Hill","locationDescription":"Maple tree forest","locationPicture":"https:\/\/raw.githubusercontent.com\/jthoopsamoot\/IT315\/master\/crescentHillPicture.jpg","locationMap":"https:\/\/raw.githubusercontent.com\/jthoopsamoot\/IT315\/master\/crescentHillMap.jpg","location_MIN_LEVEL":10, "location_MAX_LEVEL":30},{"locationName":"Navea","locationDescription":"Laggy af","locationPicture":"https:\/\/raw.githubusercontent.com\/jthoopsamoot\/IT315\/master\/naveaPicture.jpg","locationMap":"https:\/\/raw.githubusercontent.com\/jthoopsamoot\/IT315\/master\/naveaMap.jpg", "location_MIN_LEVEL":20,"location_MAX_LEVEL":30}],
+{"locations":[
+    
+{"locationName":"Port Skandia","locationDescription":"Baby place","locationPicture":"https:\/\/raw.githubusercontent.com\/jthoopsamoot\/IT315\/master\/portSkandiaPicture.jpg","locationMap":"https:\/\/raw.githubusercontent.com\/jthoopsamoot\/IT315\/master\/portSkandiaMap.jpg", "location_MIN_LEVEL":0,"location_MAX_LEVEL":10},
+    
+{"locationName":"Helonia Coast","locationDescription":"Beach place","locationPicture":"https:\/\/raw.githubusercontent.com\/jthoopsamoot\/IT315\/master\/heloniaCoastPicture.jpg","locationMap":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/heloniaMap.jpg", "location_MIN_LEVEL":0,"location_MAX_LEVEL":10},
+
+{"locationName":"Crescent Hill","locationDescription":"Maple tree forest","locationPicture":"https:\/\/raw.githubusercontent.com\/jthoopsamoot\/IT315\/master\/crescentHillPicture.jpg","locationMap":"https:\/\/raw.githubusercontent.com\/jthoopsamoot\/IT315\/master\/crescentHillMap.jpg","location_MIN_LEVEL":10, "location_MAX_LEVEL":30},
+    
+{"locationName":"Navea","locationDescription":"Laggy af","locationPicture":"https:\/\/raw.githubusercontent.com\/jthoopsamoot\/IT315\/master\/naveaPicture.jpg","locationMap":"https:\/\/raw.githubusercontent.com\/jthoopsamoot\/IT315\/master\/naveaMap.jpg", "location_MIN_LEVEL":20,"location_MAX_LEVEL":30}
+
+    ],
     "Status":"OK"
 }
