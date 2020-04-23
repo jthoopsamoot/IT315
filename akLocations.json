@@ -18,6 +18,8 @@
 
 {"locationName":"Ventos Prairie","locationDescription":"Makar town","locationPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/ventosPicture.jpg","locationMap":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/ventosMap.jpg", "location_MIN_LEVEL":45,"location_MAX_LEVEL":50,"fishName":"Rainbow Salmon","fishBait":"Giant Black Mayfly","fishTime1":"SUNDAY 13:00, 17:00","fishTime2":"THURSDAY 5:00, 13:00, 21:00","digName1":"Buried Chinaware","digTime1":"WEDNESDAY","digName2":"Buried Handcrafted Relic","digTime2":"THURSDAY","digName3":"Buried Energized Crystal","digTime3":"SATURDAY","fishPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/ventosSalmon.jpg"},
 
+{"locationName":"Oblitus Woods","locationDescription":"Ghost town","locationPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/oblitusPicture.jpg","locationMap":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/oblitusMap.jpg", "location_MIN_LEVEL":45,"location_MAX_LEVEL":50,"fishName":"Waterfall Catfish","fishBait":"Green Leech","fishTime1":"SUNDAY 13:00, 17:00","fishTime2":"FRIDAY 5:00, 13:00, 21:00","digName1":"Buried Rare Mineral","digTime1":"WEDNESDAY","digName2":"Buried Marine Fossils","digTime2":"FRIDAY","digName3":"Buried Rare Mineral","digTime3":"SATURDAY","fishPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/oblitusFish.jpg"},
+
 
 
 
