@@ -14,6 +14,8 @@
 
 {"locationName":"Candeo Marsh","locationDescription":"Marsh town","locationPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/candeoPicture.jpg","locationMap":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/candeoMap.jpg", "location_MIN_LEVEL":45,"location_MAX_LEVEL":50,"fishName":"Giant Marsh Trout","fishBait":"Fresh Marsh Shrimp","fishTime1":"SUNDAY 13:00, 17:00","fishTime2":"WEDNESDAY 5:00, 13:00, 21:00","digName1":"Buried Pottery Shard","digTime1":"SUNDAY","digName2":"Buried Treasure","digTime2":"MONDAY","digName3":"Buried Stone Tablet","digTime3":"WEDNESDAY","fishPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/marshTrout.jpg"},
 
+{"locationName":"Triatio Highlands","locationDescription":"Plateau town","locationPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/triaPicture.jpg","locationMap":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/triaMap.jpg", "location_MIN_LEVEL":45,"location_MAX_LEVEL":50,"fishName":"King Sand Crab","fishBait":"Wriggling River Snail","fishTime1":"SUNDAY 13:00, 17:00","fishTime2":"TUESDAY 5:00, 13:00, 21:00","digName1":"Buried Rare Mineral","digTime1":"TUESDAY","digName2":"Buried Cultural Relic","digTime2":"FRIDAY & SATURDAY","digName3":" ","digTime3":" ","fishPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/triaPicture.jpg"},
+
 
 
 
