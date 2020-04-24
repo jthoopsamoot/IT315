@@ -28,6 +28,8 @@
 
 {"locationName":"Raimist Reach","locationDescription":"Mushroom-infected town","locationPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/raimistPicture.jpg","locationMap":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/raimistMap.jpg", "location_MIN_LEVEL":60,"location_MAX_LEVEL":62,"fishName":"Hypnosis Frog","fishBait":"Rainbow Cricket","fishTime1":"SUNDAY 13:00, 17:00","fishTime2":"MONDAY 5:00, 13:00, 21:00","digName1":"Buried Phosphorus Crystal","digTime1":"TUESDAY","digName2":"Buried Corroded Ore","digTime2":"WEDNESDAY","digName3":"Buried Radioactive Stone","digTime3":"FRIDAY","fishPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/raimistFrog.jpg"},
 
+{"locationName":"Emerald Marsh","locationDescription":"Marshland town","locationPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/emeraldPicture.jpg","locationMap":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/emeraldMap.jpg", "location_MIN_LEVEL":60,"location_MAX_LEVEL":62,"fishName":"Bloodthirsty Thornfang","fishBait":"Freshly Grilled Sirloin","fishTime1":"SUNDAY 13:00, 17:00","fishTime2":"MONDAY 5:00, 13:00, 21:00","digName1":"Buried Mutant Remains","digTime1":"MONDAY","digName2":"Buried Mana Parasite","digTime2":"THURSDAY","digName3":"Buried Fallenwisp","digTime3":"SATURDAY","fishPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/thornfangFish.jpg"},
+
 
 
 
