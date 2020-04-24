@@ -32,6 +32,8 @@
 
 {"locationName":"Starstruck Plateau","locationDescription":"Crystal town","locationPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/starstruckPicture.jpg","locationMap":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/starstruckMap.jpg", "location_MIN_LEVEL":66,"location_MAX_LEVEL":80,"fishName":"Crimson Wisp Jellyfish","fishBait":"Coral Red Fish","fishTime1":"SUNDAY 13:00, 17:00","fishTime2":"WEDNESDAY 5:00, 13:00, 21:00","digName1":"Primitive Tool","digTime1":"MONDAY","digName2":"Corroded Relic","digTime2":"TUESDAY","digName3":"Crumbling Tablet","digTime3":"SATURDAY","fishPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/starJellyfish.jpg"},
 
+{"locationName":"Silent Ice Field","locationDescription":"Frozen town","locationPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/silentPicture.jpg","locationMap":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/silentMap.jpg", "location_MIN_LEVEL":66,"location_MAX_LEVEL":80,"fishName":"Ice Field Continent Turtle","fishBait":"Princess Hardscale Fish","fishTime1":"SUNDAY 13:00, 17:00","fishTime2":"FRIDAY 5:00, 13:00, 21:00","digName1":"Frozen Handcrafted Relic","digTime1":"SUNDAY","digName2":"Frozen Remains","digTime2":"WEDNESDAY","digName3":"Frozen Ore","digTime3":"FRIDAY","fishPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/silentTurtle.jpg"},
+
 
 
 
