@@ -22,6 +22,7 @@
 
 {"locationName":"Star Sand Desert","locationDescription":"Marketplace town","locationPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/starPicture.jpg","locationMap":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/starMap.jpg", "location_MIN_LEVEL":50,"location_MAX_LEVEL":55,"fishName":"Giant Sand Perch","fishBait":"Lively Grass Carp","fishTime1":"SUNDAY 13:00, 17:00","fishTime2":"SATURDAY 5:00, 13:00, 21:00","digName1":"Buried Animal Bones","digTime1":"SUNDAY","digName2":"Buried Marine Fossils","digTime2":"TUESDAY","digName3":"Buried Energized Crystal","digTime3":"THURSDAY","fishPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/starFish.jpg"},
 
+{"locationName":"Vulture Vale","locationDescription":"Battlefront map","locationPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/vulturePicture.jpg","locationMap":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/vultureMap.jpg", "location_MIN_LEVEL":60,"location_MAX_LEVEL":62,"fishName":"Eternal Wise Crab","fishBait":"Shining Crystal Shell","fishTime1":"SUNDAY 13:00, 17:00","fishTime2":"MONDAY 1:00, 9:00, 17:00","digName1":"Buried Wisp","digTime1":"TUESDAY","digName2":"Buried Treasure","digTime2":"THURSDAY","digName3":"Buried Handcrafted Relic","digTime3":"SATURDAY","fishPicture":"https://raw.githubusercontent.com/jthoopsamoot/IT315/master/wiseCrab.jpg"},
 
 
 
